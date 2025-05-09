@@ -1,0 +1,10 @@
+flask
+openai
+python-dotenv
+requests
+markdown
+flask_cors
+pymysql
+chromadb
+sentence-transformers
+groq
